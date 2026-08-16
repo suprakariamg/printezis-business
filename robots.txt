@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://suprakariamg.github.io/printezis-business/sitemap.xml
